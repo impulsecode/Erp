@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">云树ERP</string>
+    <string name="text_empty"></string>
+    <string name="text_menu_home">主  页</string>
+    <string name="text_menu_message">消  息</string>
+    <string name="text_menu_my">我  的</string>
+    <string name="text_login_username">请输入用户名</string>
+    <string name="text_login_password">请输入登陆密码</string>
+    <string name="text_button_loginon">登 陆</string>
+    <string name="text_button_exit">退 出</string>
+    <string name="text_xlistview_header_hint_normal">下拉刷新</string>
+    <string name="text_xlistview_header_hint_ready">松开刷新</string>
+    <string name="text_xlistview_header_hint_loading">正在加载&#8230;</string>
+    <string name="text_xlistview_header_last_time">最后更新：</string>
+    <string name="text_xlistview_footer_hint_normal">查看更多</string>
+    <string name="text_xlistview_footer_hint_ready">松开载入更多</string>
+    <string-array name="home_buttons">
+        <item>产品质检</item>
+        <item>产品返修</item>
+        <item>产品巡检</item>
+    </string-array>
+</resources>

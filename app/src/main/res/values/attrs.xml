@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="IconInput">
+        <attr name="iconInputDesc" format="string"></attr>
+        <attr name="iconInputType" format="string"></attr>
+        <attr name="iconInputMode" format="integer"></attr>
+        <attr name="iconInputIcon" format="reference"></attr>
+    </declare-styleable>
+
+    <declare-styleable name="MenuButton">
+        <attr name="menuButtonIndex" format="integer"/>
+        <attr name="menuButtonDefault" format="reference"/>
+        <attr name="menuButtonSelected" format="reference"></attr>
+        <attr name="menuButtonText" format="string"/>
+    </declare-styleable>
+
+    <declare-styleable name="NavBarView">
+        <attr name="navBarTitle" format="string"/>
+        <attr name="navBarHasBack" format="boolean"/>
+        <attr name="navBarHasGo" format="boolean"/>
+        <attr name="navBarBackImg" format="reference"/>
+        <attr name="navBarGoImg" format="reference"/>
+    </declare-styleable>
+</resources>
